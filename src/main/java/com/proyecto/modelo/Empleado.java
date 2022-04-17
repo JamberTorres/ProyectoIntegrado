@@ -1,6 +1,5 @@
 package com.proyecto.modelo;
 import javax.persistence.*;
-
 @Entity
 @Table(name="empleado")
 public class Empleado {
